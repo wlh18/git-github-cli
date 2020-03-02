@@ -1,6 +1,7 @@
 # CLI, Git, & GitHub
 
 Mini Project - https://github.com/wlh18/learn-git
+
 Afternoon Project - https://lms.devmountain.com/courses/70/pages/day-1-afternoon-project?module_item_id=17351
 
 ## CLI
