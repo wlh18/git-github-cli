@@ -1,5 +1,10 @@
 # CLI, Git, & GitHub
 
+Mini Project - https://github.com/wlh18/learn-git
+Afternoon Project - https://lms.devmountain.com/courses/70/pages/day-1-afternoon-project?module_item_id=17351
+
+## CLI
+
 CLI (Command Line Interface): Also called the terminal, is the program we will use to interact with our computer's files and directories. It will be important to become proficient in the various commands you can use in the terminal. On Apple computers we are able to use the built in terminal. On Windows machines we will need to download Bash for windows which can be found [here](https://gitforwindows.org/)
 
 ## Common Terminal Commands
